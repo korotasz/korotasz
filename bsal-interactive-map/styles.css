@@ -6,3 +6,18 @@ body
 {
   height: 100%
 }
+
+@font-face {
+    font-family: 'HKGrotesk-Light';
+    src: url('/HKGrotesk/HKGrotesk-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HKGrotesk-LightItalic';
+    src: url('/HKGrotesk/HKGrotesk-LightItalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+
