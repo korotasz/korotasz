@@ -1,17 +1,16 @@
-html
+html *
 {
-    height: 100%
-}
-body
-{
+  font-family: 'HKGrotesk-Light';
+  src: url('/HKGrotesk/HKGrotesk-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+
   height: 100%
 }
 
-#root {
-    font-family: 'HKGrotesk-Light';
-    src: url('/HKGrotesk/HKGrotesk-Light.otf') format('opentype');
-    font-weight: 300;
-    font-style: normal;
+body
+{
+  height: 100%
 }
 
 @font-face {
