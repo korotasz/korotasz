@@ -21,13 +21,13 @@ body
 
 @font-face {
     font-family: 'HKGrotesk-Light';
-    src: url('../fonts/hkgrotesk/HKGrotesk-Light.otf') format('opentype');
+    src: url('https://korotasz.github.io/fonts/hkgrotesk/HKGrotesk-Light.otf') format('opentype');
     font-weight: 300;
 }
 
 @font-face {
     font-family: 'HKGrotesk-LightItalic';
-    src: url('../fonts/hkgrotesk/HKGrotesk-LightItalic.otf') format('opentype');
+    src: url('https://korotasz.github.io/fonts/hkgrotesk/HKGrotesk-LightItalic.otf') format('opentype');
     font-weight: 300;
     font-style: italic;
 }
