@@ -48,6 +48,6 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-bsal-interactive-map/*
-fonts/*
+bsal-interactive-map/
+fonts/
 index.html
