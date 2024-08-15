@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/korotasz/korotasz/blob/main/salamanderbanner.gif" width="1000" height="525"/>
+  <img src="https://github.com/korotasz/korotasz/blob/main/salamanderbanner.gif" width="750" height="425"/>
 </div>
 
 ---
