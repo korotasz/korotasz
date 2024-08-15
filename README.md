@@ -13,6 +13,12 @@
                                                                            width="150" height="25"></a>
 </p>
 
+<div align="center">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=korotasz&theme=shadow_green"/>
+</div>
+
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/korotasz/korotasz/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/korotasz/korotasz/blob/output/github-snake.svg" />
