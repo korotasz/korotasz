@@ -12,3 +12,9 @@
                                                                            src="https://img.shields.io/badge/Google_Scholar-%234285F4?style=plastic&logo=Google%20Scholar&logoColor=%23ffffff&labelColor=%234285F4&color=%234285F4"
                                                                            width="150" height="25"></a>
 </p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/korotasz/korotasz/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/korotasz/korotasz/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
