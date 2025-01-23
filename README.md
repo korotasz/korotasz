@@ -7,7 +7,6 @@
                                                                            width="150" height="25"></a>
 </p>
 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/korotasz/korotasz/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/korotasz/korotasz/blob/output/github-snake.svg" />
